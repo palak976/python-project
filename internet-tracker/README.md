@@ -30,13 +30,13 @@ How to Run:
 5. Open the local URL displayed in your terminal.
 
 Project Structure:
-
+``` text
 internship-tracker/
 ├── app.py
 ├── ui.py
 ├── applications.json
 └── README.md
-
+```
 Learning Goals:
 
 This project helped me practise Python fundamentals, dictionaries, lists, JSON file handling, and CRUD operations through a Streamlit application.
