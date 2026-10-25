@@ -1,0 +1,37 @@
+[
+    {
+        "Company_Name": "Google",
+        "Role": "Software Engineer Intern",
+        "Status": "Applied"
+    },
+    {
+        "Company_Name": "Amazon",
+        "Role": "Software Engineer Intern",
+        "Status": "Interview"
+    },
+    {
+        "Company_Name": "PhonePe",
+        "Role": "Python Developer Intern",
+        "Status": "Interested"
+    },
+    {
+        "Company_Name": "Oracle",
+        "Role": "Backend Developer Intern",
+        "Status": "Applied"
+    },
+    {
+        "Company_Name": "Infosys",
+        "Role": "Software Engineer Intern",
+        "Status": "Rejected"
+    },
+    {
+        "Company_Name": "TCL",
+        "Role": "Python Developer Intern",
+        "Status": "Interested"
+    },
+    {
+        "Company_Name": "Cisco",
+        "Role": "Backend Developer Intern",
+        "Status": "Selected"
+    }
+]
